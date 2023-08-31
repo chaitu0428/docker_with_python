@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1693454355,,"wq"
+|2,0,1693455810,,"wq"
 :q!
 |2,0,1693451643,,"q!"
 
@@ -27,230 +27,264 @@
 # Registers:
 
 # File marks:
-'0  3  85  ~/script2.py
-|4,48,3,85,1693454355,"~/script2.py"
-'1  3  95  ~/script2.py
-|4,49,3,95,1693454265,"~/script2.py"
-'2  6  97  ~/create_network.py
-|4,50,6,97,1693452180,"~/create_network.py"
-'3  7  10  ~/create_network.py
-|4,51,7,10,1693452132,"~/create_network.py"
-'4  7  10  ~/create_network.py
-|4,52,7,10,1693452132,"~/create_network.py"
-'5  10  42  ~/create_container.py
-|4,53,10,42,1693451643,"~/create_container.py"
-'6  10  43  ~/create_container.py
-|4,54,10,43,1693450759,"~/create_container.py"
-'7  10  43  ~/create_container.py
-|4,55,10,43,1693450102,"~/create_container.py"
-'8  10  43  ~/create_container.py
-|4,56,10,43,1693450102,"~/create_container.py"
-'9  12  24  ~/create_container.py
-|4,57,12,24,1693449859,"~/create_container.py"
+'0  3  78  ~/script4.py
+|4,48,3,78,1693455810,"~/script4.py"
+'1  11  11  ~/script4.py
+|4,49,11,11,1693455754,"~/script4.py"
+'2  11  11  ~/script4.py
+|4,50,11,11,1693455754,"~/script4.py"
+'3  1  0  ~/file1
+|4,51,1,0,1693455402,"~/file1"
+'4  5  65  ~/script3.py
+|4,52,5,65,1693455231,"~/script3.py"
+'5  5  62  ~/script3.py
+|4,53,5,62,1693455167,"~/script3.py"
+'6  6  12  ~/script3.py
+|4,54,6,12,1693455135,"~/script3.py"
+'7  6  12  ~/script3.py
+|4,55,6,12,1693455135,"~/script3.py"
+'8  6  12  ~/script3.py
+|4,56,6,12,1693455135,"~/script3.py"
+'9  6  12  ~/script3.py
+|4,57,6,12,1693455135,"~/script3.py"
 
 # Jumplist (newest first):
--'  3  85  ~/script2.py
-|4,39,3,85,1693454355,"~/script2.py"
--'  3  95  ~/script2.py
-|4,39,3,95,1693454265,"~/script2.py"
--'  1  0  ~/script2.py
-|4,39,1,0,1693454145,"~/script2.py"
--'  1  0  ~/script2.py
-|4,39,1,0,1693454145,"~/script2.py"
--'  6  97  ~/create_network.py
-|4,39,6,97,1693452180,"~/create_network.py"
--'  6  97  ~/create_network.py
-|4,39,6,97,1693452180,"~/create_network.py"
--'  6  97  ~/create_network.py
-|4,39,6,97,1693452180,"~/create_network.py"
--'  6  97  ~/create_network.py
-|4,39,6,97,1693452180,"~/create_network.py"
--'  7  10  ~/create_network.py
-|4,39,7,10,1693452159,"~/create_network.py"
--'  7  10  ~/create_network.py
-|4,39,7,10,1693452159,"~/create_network.py"
--'  7  10  ~/create_network.py
-|4,39,7,10,1693452159,"~/create_network.py"
--'  7  10  ~/create_network.py
-|4,39,7,10,1693452159,"~/create_network.py"
--'  7  10  ~/create_network.py
-|4,39,7,10,1693452132,"~/create_network.py"
--'  7  10  ~/create_network.py
-|4,39,7,10,1693452132,"~/create_network.py"
--'  7  10  ~/create_network.py
-|4,39,7,10,1693452132,"~/create_network.py"
--'  7  10  ~/create_network.py
-|4,39,7,10,1693452132,"~/create_network.py"
--'  1  0  ~/create_network.py
-|4,39,1,0,1693451764,"~/create_network.py"
--'  1  0  ~/create_network.py
-|4,39,1,0,1693451764,"~/create_network.py"
--'  1  0  ~/create_network.py
-|4,39,1,0,1693451764,"~/create_network.py"
--'  1  0  ~/create_network.py
-|4,39,1,0,1693451764,"~/create_network.py"
--'  1  0  ~/create_network.py
-|4,39,1,0,1693451764,"~/create_network.py"
--'  1  0  ~/create_network.py
-|4,39,1,0,1693451764,"~/create_network.py"
--'  1  0  ~/create_network.py
-|4,39,1,0,1693451764,"~/create_network.py"
--'  1  0  ~/create_network.py
-|4,39,1,0,1693451764,"~/create_network.py"
--'  10  42  ~/create_container.py
-|4,39,10,42,1693451643,"~/create_container.py"
--'  10  42  ~/create_container.py
-|4,39,10,42,1693451643,"~/create_container.py"
--'  10  42  ~/create_container.py
-|4,39,10,42,1693451643,"~/create_container.py"
--'  10  42  ~/create_container.py
-|4,39,10,42,1693451643,"~/create_container.py"
--'  10  42  ~/create_container.py
-|4,39,10,42,1693451643,"~/create_container.py"
--'  10  42  ~/create_container.py
-|4,39,10,42,1693451643,"~/create_container.py"
--'  10  42  ~/create_container.py
-|4,39,10,42,1693451643,"~/create_container.py"
--'  10  42  ~/create_container.py
-|4,39,10,42,1693451643,"~/create_container.py"
--'  10  42  ~/create_container.py
-|4,39,10,42,1693451643,"~/create_container.py"
--'  10  42  ~/create_container.py
-|4,39,10,42,1693451643,"~/create_container.py"
--'  10  42  ~/create_container.py
-|4,39,10,42,1693451643,"~/create_container.py"
--'  10  42  ~/create_container.py
-|4,39,10,42,1693451643,"~/create_container.py"
--'  10  42  ~/create_container.py
-|4,39,10,42,1693451643,"~/create_container.py"
--'  10  42  ~/create_container.py
-|4,39,10,42,1693451643,"~/create_container.py"
--'  10  42  ~/create_container.py
-|4,39,10,42,1693451643,"~/create_container.py"
--'  10  42  ~/create_container.py
-|4,39,10,42,1693451643,"~/create_container.py"
--'  10  43  ~/create_container.py
-|4,39,10,43,1693450759,"~/create_container.py"
--'  10  43  ~/create_container.py
-|4,39,10,43,1693450759,"~/create_container.py"
--'  10  43  ~/create_container.py
-|4,39,10,43,1693450759,"~/create_container.py"
--'  10  43  ~/create_container.py
-|4,39,10,43,1693450759,"~/create_container.py"
--'  10  43  ~/create_container.py
-|4,39,10,43,1693450759,"~/create_container.py"
--'  10  43  ~/create_container.py
-|4,39,10,43,1693450759,"~/create_container.py"
--'  10  43  ~/create_container.py
-|4,39,10,43,1693450759,"~/create_container.py"
--'  10  43  ~/create_container.py
-|4,39,10,43,1693450759,"~/create_container.py"
--'  10  43  ~/create_container.py
-|4,39,10,43,1693450759,"~/create_container.py"
--'  10  43  ~/create_container.py
-|4,39,10,43,1693450759,"~/create_container.py"
--'  10  43  ~/create_container.py
-|4,39,10,43,1693450759,"~/create_container.py"
--'  10  43  ~/create_container.py
-|4,39,10,43,1693450759,"~/create_container.py"
--'  10  43  ~/create_container.py
-|4,39,10,43,1693450759,"~/create_container.py"
--'  10  43  ~/create_container.py
-|4,39,10,43,1693450759,"~/create_container.py"
--'  10  43  ~/create_container.py
-|4,39,10,43,1693450759,"~/create_container.py"
--'  10  43  ~/create_container.py
-|4,39,10,43,1693450759,"~/create_container.py"
--'  10  43  ~/create_container.py
-|4,39,10,43,1693450102,"~/create_container.py"
--'  10  43  ~/create_container.py
-|4,39,10,43,1693450102,"~/create_container.py"
--'  10  43  ~/create_container.py
-|4,39,10,43,1693450102,"~/create_container.py"
--'  10  43  ~/create_container.py
-|4,39,10,43,1693450102,"~/create_container.py"
--'  10  43  ~/create_container.py
-|4,39,10,43,1693450102,"~/create_container.py"
--'  10  43  ~/create_container.py
-|4,39,10,43,1693450102,"~/create_container.py"
--'  10  43  ~/create_container.py
-|4,39,10,43,1693450102,"~/create_container.py"
--'  10  43  ~/create_container.py
-|4,39,10,43,1693450102,"~/create_container.py"
--'  10  43  ~/create_container.py
-|4,39,10,43,1693450102,"~/create_container.py"
--'  10  43  ~/create_container.py
-|4,39,10,43,1693450102,"~/create_container.py"
--'  10  43  ~/create_container.py
-|4,39,10,43,1693450102,"~/create_container.py"
--'  10  43  ~/create_container.py
-|4,39,10,43,1693450102,"~/create_container.py"
--'  10  43  ~/create_container.py
-|4,39,10,43,1693450102,"~/create_container.py"
--'  10  43  ~/create_container.py
-|4,39,10,43,1693450102,"~/create_container.py"
--'  10  43  ~/create_container.py
-|4,39,10,43,1693450102,"~/create_container.py"
--'  10  43  ~/create_container.py
-|4,39,10,43,1693450102,"~/create_container.py"
--'  12  24  ~/create_container.py
-|4,39,12,24,1693449963,"~/create_container.py"
--'  12  24  ~/create_container.py
-|4,39,12,24,1693449963,"~/create_container.py"
--'  12  24  ~/create_container.py
-|4,39,12,24,1693449963,"~/create_container.py"
--'  12  24  ~/create_container.py
-|4,39,12,24,1693449963,"~/create_container.py"
--'  12  24  ~/create_container.py
-|4,39,12,24,1693449963,"~/create_container.py"
--'  12  24  ~/create_container.py
-|4,39,12,24,1693449963,"~/create_container.py"
--'  12  24  ~/create_container.py
-|4,39,12,24,1693449963,"~/create_container.py"
--'  12  24  ~/create_container.py
-|4,39,12,24,1693449963,"~/create_container.py"
--'  12  24  ~/create_container.py
-|4,39,12,24,1693449963,"~/create_container.py"
--'  12  24  ~/create_container.py
-|4,39,12,24,1693449963,"~/create_container.py"
--'  12  24  ~/create_container.py
-|4,39,12,24,1693449963,"~/create_container.py"
--'  12  24  ~/create_container.py
-|4,39,12,24,1693449963,"~/create_container.py"
--'  12  24  ~/create_container.py
-|4,39,12,24,1693449963,"~/create_container.py"
--'  12  24  ~/create_container.py
-|4,39,12,24,1693449963,"~/create_container.py"
--'  12  24  ~/create_container.py
-|4,39,12,24,1693449963,"~/create_container.py"
--'  12  24  ~/create_container.py
-|4,39,12,24,1693449963,"~/create_container.py"
--'  12  24  ~/create_container.py
-|4,39,12,24,1693449963,"~/create_container.py"
--'  12  24  ~/create_container.py
-|4,39,12,24,1693449963,"~/create_container.py"
--'  12  24  ~/create_container.py
-|4,39,12,24,1693449963,"~/create_container.py"
--'  12  24  ~/create_container.py
-|4,39,12,24,1693449963,"~/create_container.py"
--'  12  24  ~/create_container.py
-|4,39,12,24,1693449963,"~/create_container.py"
--'  12  24  ~/create_container.py
-|4,39,12,24,1693449963,"~/create_container.py"
--'  12  24  ~/create_container.py
-|4,39,12,24,1693449963,"~/create_container.py"
--'  12  24  ~/create_container.py
-|4,39,12,24,1693449963,"~/create_container.py"
--'  12  24  ~/create_container.py
-|4,39,12,24,1693449963,"~/create_container.py"
--'  12  24  ~/create_container.py
-|4,39,12,24,1693449963,"~/create_container.py"
--'  12  24  ~/create_container.py
-|4,39,12,24,1693449963,"~/create_container.py"
--'  12  24  ~/create_container.py
-|4,39,12,24,1693449963,"~/create_container.py"
+-'  3  78  ~/script4.py
+|4,39,3,78,1693455810,"~/script4.py"
+-'  11  11  ~/script4.py
+|4,39,11,11,1693455775,"~/script4.py"
+-'  11  11  ~/script4.py
+|4,39,11,11,1693455754,"~/script4.py"
+-'  1  0  ~/script4.py
+|4,39,1,0,1693455432,"~/script4.py"
+-'  1  0  ~/script4.py
+|4,39,1,0,1693455432,"~/script4.py"
+-'  1  0  ~/file1
+|4,39,1,0,1693455402,"~/file1"
+-'  1  0  ~/file1
+|4,39,1,0,1693455402,"~/file1"
+-'  1  0  ~/file1
+|4,39,1,0,1693455402,"~/file1"
+-'  1  0  ~/file1
+|4,39,1,0,1693455402,"~/file1"
+-'  5  65  ~/script3.py
+|4,39,5,65,1693455231,"~/script3.py"
+-'  5  65  ~/script3.py
+|4,39,5,65,1693455231,"~/script3.py"
+-'  5  65  ~/script3.py
+|4,39,5,65,1693455231,"~/script3.py"
+-'  5  65  ~/script3.py
+|4,39,5,65,1693455231,"~/script3.py"
+-'  5  65  ~/script3.py
+|4,39,5,65,1693455231,"~/script3.py"
+-'  5  65  ~/script3.py
+|4,39,5,65,1693455231,"~/script3.py"
+-'  5  65  ~/script3.py
+|4,39,5,65,1693455231,"~/script3.py"
+-'  5  65  ~/script3.py
+|4,39,5,65,1693455231,"~/script3.py"
+-'  5  62  ~/script3.py
+|4,39,5,62,1693455167,"~/script3.py"
+-'  5  62  ~/script3.py
+|4,39,5,62,1693455167,"~/script3.py"
+-'  5  62  ~/script3.py
+|4,39,5,62,1693455167,"~/script3.py"
+-'  5  62  ~/script3.py
+|4,39,5,62,1693455167,"~/script3.py"
+-'  5  62  ~/script3.py
+|4,39,5,62,1693455167,"~/script3.py"
+-'  5  62  ~/script3.py
+|4,39,5,62,1693455167,"~/script3.py"
+-'  5  62  ~/script3.py
+|4,39,5,62,1693455167,"~/script3.py"
+-'  5  62  ~/script3.py
+|4,39,5,62,1693455167,"~/script3.py"
+-'  6  12  ~/script3.py
+|4,39,6,12,1693455158,"~/script3.py"
+-'  6  12  ~/script3.py
+|4,39,6,12,1693455158,"~/script3.py"
+-'  6  12  ~/script3.py
+|4,39,6,12,1693455158,"~/script3.py"
+-'  6  12  ~/script3.py
+|4,39,6,12,1693455158,"~/script3.py"
+-'  6  12  ~/script3.py
+|4,39,6,12,1693455158,"~/script3.py"
+-'  6  12  ~/script3.py
+|4,39,6,12,1693455158,"~/script3.py"
+-'  6  12  ~/script3.py
+|4,39,6,12,1693455158,"~/script3.py"
+-'  6  12  ~/script3.py
+|4,39,6,12,1693455158,"~/script3.py"
+-'  6  12  ~/script3.py
+|4,39,6,12,1693455158,"~/script3.py"
+-'  6  12  ~/script3.py
+|4,39,6,12,1693455158,"~/script3.py"
+-'  6  12  ~/script3.py
+|4,39,6,12,1693455158,"~/script3.py"
+-'  6  12  ~/script3.py
+|4,39,6,12,1693455158,"~/script3.py"
+-'  6  12  ~/script3.py
+|4,39,6,12,1693455158,"~/script3.py"
+-'  6  12  ~/script3.py
+|4,39,6,12,1693455158,"~/script3.py"
+-'  6  12  ~/script3.py
+|4,39,6,12,1693455158,"~/script3.py"
+-'  6  12  ~/script3.py
+|4,39,6,12,1693455158,"~/script3.py"
+-'  6  12  ~/script3.py
+|4,39,6,12,1693455135,"~/script3.py"
+-'  6  12  ~/script3.py
+|4,39,6,12,1693455135,"~/script3.py"
+-'  6  12  ~/script3.py
+|4,39,6,12,1693455135,"~/script3.py"
+-'  6  12  ~/script3.py
+|4,39,6,12,1693455135,"~/script3.py"
+-'  6  12  ~/script3.py
+|4,39,6,12,1693455135,"~/script3.py"
+-'  6  12  ~/script3.py
+|4,39,6,12,1693455135,"~/script3.py"
+-'  6  12  ~/script3.py
+|4,39,6,12,1693455135,"~/script3.py"
+-'  6  12  ~/script3.py
+|4,39,6,12,1693455135,"~/script3.py"
+-'  4  25  ~/script3.py
+|4,39,4,25,1693455042,"~/script3.py"
+-'  4  25  ~/script3.py
+|4,39,4,25,1693455042,"~/script3.py"
+-'  4  25  ~/script3.py
+|4,39,4,25,1693455042,"~/script3.py"
+-'  4  25  ~/script3.py
+|4,39,4,25,1693455042,"~/script3.py"
+-'  4  25  ~/script3.py
+|4,39,4,25,1693455042,"~/script3.py"
+-'  4  25  ~/script3.py
+|4,39,4,25,1693455042,"~/script3.py"
+-'  4  25  ~/script3.py
+|4,39,4,25,1693455042,"~/script3.py"
+-'  4  25  ~/script3.py
+|4,39,4,25,1693455042,"~/script3.py"
+-'  4  25  ~/script3.py
+|4,39,4,25,1693455042,"~/script3.py"
+-'  4  25  ~/script3.py
+|4,39,4,25,1693455042,"~/script3.py"
+-'  4  25  ~/script3.py
+|4,39,4,25,1693455042,"~/script3.py"
+-'  4  25  ~/script3.py
+|4,39,4,25,1693455042,"~/script3.py"
+-'  4  25  ~/script3.py
+|4,39,4,25,1693455042,"~/script3.py"
+-'  4  25  ~/script3.py
+|4,39,4,25,1693455042,"~/script3.py"
+-'  4  25  ~/script3.py
+|4,39,4,25,1693455042,"~/script3.py"
+-'  4  25  ~/script3.py
+|4,39,4,25,1693455042,"~/script3.py"
+-'  4  25  ~/script3.py
+|4,39,4,25,1693455042,"~/script3.py"
+-'  4  25  ~/script3.py
+|4,39,4,25,1693455042,"~/script3.py"
+-'  4  25  ~/script3.py
+|4,39,4,25,1693455042,"~/script3.py"
+-'  4  25  ~/script3.py
+|4,39,4,25,1693455042,"~/script3.py"
+-'  4  25  ~/script3.py
+|4,39,4,25,1693455042,"~/script3.py"
+-'  4  25  ~/script3.py
+|4,39,4,25,1693455042,"~/script3.py"
+-'  4  25  ~/script3.py
+|4,39,4,25,1693455042,"~/script3.py"
+-'  4  25  ~/script3.py
+|4,39,4,25,1693455042,"~/script3.py"
+-'  6  12  ~/script3.py
+|4,39,6,12,1693455017,"~/script3.py"
+-'  6  12  ~/script3.py
+|4,39,6,12,1693455017,"~/script3.py"
+-'  6  12  ~/script3.py
+|4,39,6,12,1693455017,"~/script3.py"
+-'  6  12  ~/script3.py
+|4,39,6,12,1693455017,"~/script3.py"
+-'  6  12  ~/script3.py
+|4,39,6,12,1693455017,"~/script3.py"
+-'  6  12  ~/script3.py
+|4,39,6,12,1693455017,"~/script3.py"
+-'  6  12  ~/script3.py
+|4,39,6,12,1693455017,"~/script3.py"
+-'  6  12  ~/script3.py
+|4,39,6,12,1693455017,"~/script3.py"
+-'  1  0  ~/script3.py
+|4,39,1,0,1693454847,"~/script3.py"
+-'  1  0  ~/script3.py
+|4,39,1,0,1693454847,"~/script3.py"
+-'  1  0  ~/script3.py
+|4,39,1,0,1693454847,"~/script3.py"
+-'  1  0  ~/script3.py
+|4,39,1,0,1693454847,"~/script3.py"
+-'  1  0  ~/script3.py
+|4,39,1,0,1693454847,"~/script3.py"
+-'  1  0  ~/script3.py
+|4,39,1,0,1693454847,"~/script3.py"
+-'  1  0  ~/script3.py
+|4,39,1,0,1693454847,"~/script3.py"
+-'  1  0  ~/script3.py
+|4,39,1,0,1693454847,"~/script3.py"
+-'  1  0  ~/script3.py
+|4,39,1,0,1693454847,"~/script3.py"
+-'  1  0  ~/script3.py
+|4,39,1,0,1693454847,"~/script3.py"
+-'  1  0  ~/script3.py
+|4,39,1,0,1693454847,"~/script3.py"
+-'  1  0  ~/script3.py
+|4,39,1,0,1693454847,"~/script3.py"
+-'  1  0  ~/script3.py
+|4,39,1,0,1693454847,"~/script3.py"
+-'  1  0  ~/script3.py
+|4,39,1,0,1693454847,"~/script3.py"
+-'  1  0  ~/script3.py
+|4,39,1,0,1693454847,"~/script3.py"
+-'  1  0  ~/script3.py
+|4,39,1,0,1693454847,"~/script3.py"
+-'  1  0  ~/script3.py
+|4,39,1,0,1693454847,"~/script3.py"
+-'  1  0  ~/script3.py
+|4,39,1,0,1693454847,"~/script3.py"
+-'  1  0  ~/script3.py
+|4,39,1,0,1693454847,"~/script3.py"
 
 # History of marks within files (newest to oldest):
+
+> ~/script4.py
+	*	1693455809	0
+	"	3	78
+	^	3	79
+	.	3	78
+	+	3	78
+	+	4	0
+	+	3	91
+	+	5	35
+	+	9	17
+	+	10	54
+	+	11	11
+	+	3	78
+
+> ~/file1
+	*	1693455401	0
+	"	1	0
+	^	1	0
+
+> ~/script3.py
+	*	1693455229	0
+	"	5	65
+	^	5	66
+	.	5	65
+	+	1	0
+	+	4	11
+	+	4	89
+	+	4	13
+	+	4	25
+	+	4	4
+	+	4	13
+	+	6	12
+	+	5	65
 
 > ~/script2.py
 	*	1693454354	0
