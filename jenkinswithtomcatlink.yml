@@ -1,0 +1,23 @@
+---
+
+version: '5'
+
+services:
+  myjenkins:
+    image: jenkins/jenkins
+    ports:
+      - 9090:8080
+  qaserver:
+    image: tomee
+    ports:
+      - 7070:8080
+    links:
+      - myjenkins:jenkins
+  prodserver:
+    image: tomee
+    ports:
+      - 6060:8080
+    links:
+      - myjenkins:jenkins
+
+

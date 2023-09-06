@@ -1,0 +1,26 @@
+---
+
+version: '5'
+
+services:
+
+  mydb:
+
+    image: mysql:5
+    environment:
+      MYSQL_ROOT_PASSWORD: chaitu@
+
+  apache:
+
+    image: httpd
+    ports:
+      - 9999:80
+    links:
+      - mydb:mysql
+
+  php:
+
+    image: php:7.2-apache
+    links:
+      - mydb:mysql
+      - apache:httpd

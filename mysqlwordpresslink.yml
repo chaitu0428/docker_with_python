@@ -1,0 +1,16 @@
+---
+
+version: '5.8'
+
+services:
+  mydb:
+    image: mysql:5
+    environment:
+      MYSQL_ROOT_PASSWORD: chaitu@
+
+  mywordpress:
+    image: wordpress
+    ports:
+      - 8888:80
+    links:
+      - mydb:mysql
